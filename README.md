@@ -6,7 +6,7 @@ Welcome to the Machine Learning Repository! This repository contains various mac
 
 1. [Introduction](#introduction)
 2. [Prerequisites](#prerequisites)
-3. [Folder Structure](##folder-structure)
+3. [Folder Structure](#folder-structure)
 4. [Running Notebooks on Google Colab](#running-notebooks-on-google-colab)
 5. [Details of Each Module](#details-of-each-module)
 6. [Contributing](#contributing)
